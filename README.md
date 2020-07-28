@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 ```javascript
 const Gerardo_Quiñonez = {
   pronouns: "he" | "him",
-  skills: [HTML, CSS, Javascript, React, Bootstrap, Styled-Components, Git, Scrum],
+  skills: ['HTML', 'CSS', 'Javascript', 'React', 'Bootstrap', 'Styled Components', 'Git', 'Scrum'],
   personals_projects: {
                         CRUD_JS: "Create, Update, and Delete Records dynamically",
                         Proyecto_citas: "Appointment manager at Local Storage",

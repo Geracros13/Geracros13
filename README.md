@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 #### A little more about me... 
 
 ```javascript
-const GerardoQuiñonez = {
+const Gerardo_Quiñonez = {
   pronouns: "he" | "him",
   skills: [HTML, CSS, Javascript, React, Bootstrap, Styled-Components, Git, Scrum],
   personals_projects: {

@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 [![Twitter: Gerardo Quiñonez](https://img.shields.io/twitter/follow/Gerardo_fq?style=social)](https://twitter.com/Gerardo_fq)
 
 
-#### A little more about me... <img src="https://media.giphy.com/media/3o7aTDZKNK2ACyU8y4/giphy.gif" width="50">
+#### A little more about me... 
 
 ```javascript
 const GerardoQuiñonez = {

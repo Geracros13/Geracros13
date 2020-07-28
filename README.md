@@ -39,3 +39,8 @@ const Gerardo_Quiñonez = {
  interests: "Get knowledge every day"
  
 }
+```
+
+#### Stats of my profile
+![Gerardo Quiñonez github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=geracros13&theme=radical)
+![Gerardo Quiñonez github stats](https://github-readme-stats.vercel.app/api?username=geracros13&show_icons=true&theme=radical)
